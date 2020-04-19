@@ -1,18 +1,19 @@
 # olpc-mousecape
 
-This repository contains the thicc One Laptop Per Child / sugar cursor, taken from [sugarlabs/artwork](https://github.com/sugarlabs/sugar-artwork), and repackaged as a macOS Mousecape. A batch file to install the cursors under Microsoft Windows is also provided. 
+The thicc One Laptop Per Child / [sugar](https://www.sugarlabs.org) cursor, taken from [sugarlabs/artwork](https://github.com/sugarlabs/sugar-artwork), and repackaged as a macOS Mousecape. A batch file to install the cursors under Microsoft Windows is also provided. 
+
+![The OLPC cursor theme preview as it appears in the Mousecape app.](olpc-cursors-in-mousecape-screenshot.png)
 
 ## Installation
 
 ### macOS
 
-Install [Mousecape](https://github.com/alexzielenski/Mousecape).
+- Install [Mousecape](https://github.com/alexzielenski/Mousecape).
 
-Open `olpc-mousecape.cape`. 
-
+- Download and open `olpc-mousecape.cape`. 
 
 ### Windows
 
-Unzip `olpc-cursor-windows.zip`.
+- Download `olpc-cursor-windows.zip`.
 
-Run `olpc-cursor-apply.bat`.
+- Unzip and run `olpc-cursor-apply.bat`.
