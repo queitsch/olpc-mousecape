@@ -12,5 +12,5 @@ Open `olpc-mousecape.cape`.
 
 ### Windows
 
-Unzip olpc-cursor-windows.zip.
+Unzip `olpc-cursor-windows.zip`.
 Run `olpc-cursor-apply.bat`.
